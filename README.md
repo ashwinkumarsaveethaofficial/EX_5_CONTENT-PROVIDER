@@ -34,6 +34,7 @@ Developed by: S ASHWINKUMAR
 Registeration Number :21222040020
 */
 ```
+
 ## Mainactivity.java:
 ```
 package com.example.ex5;
